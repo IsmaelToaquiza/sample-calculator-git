@@ -5,5 +5,6 @@ public class Main {
         Calculator c = new Calculator();
         int suma = c.add(8,7);
         System.out.println("add"+suma);
+        System.out.println("yafuncionaS");
     }
 }
