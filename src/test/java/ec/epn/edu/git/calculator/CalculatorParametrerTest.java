@@ -29,7 +29,10 @@ public class CalculatorParametrerTest {
         Calculator c = new Calculator();
         int actual = c.add(a,b);
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
     }
 
 }
